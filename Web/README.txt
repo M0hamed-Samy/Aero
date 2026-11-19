@@ -17,3 +17,10 @@ for views :
 
 {% endblock %}
 
+
+
+
+=======================================================
+
+
+Search for (main-content) in every front page u visit
