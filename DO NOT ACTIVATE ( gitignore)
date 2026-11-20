@@ -1,0 +1,47 @@
+cat << 'EOF' > /home/samy/Desktop/Aero/.gitignore
+# --- Secrets & Environment Variables ---
+.env
+*.env
+!.env.example
+
+# --- Large Presentations & Docs ---
+*.pptx
+*.docx
+
+# --- Python / Flask (Backend) ---
+Backend/venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+instance/
+
+# --- Local Databases & Logs ---
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# --- Web Frontend (React / Node) ---
+node_modules/
+dist/
+build/
+.vite/
+
+# --- Mobile (Flutter / Dart) ---
+Mobile/.dart_tool/
+Mobile/.flutter-plugins
+Mobile/.flutter-plugins-dependencies
+Mobile/.packages
+Mobile/build/
+**/android/.gradle/
+**/ios/Pods/
+
+# --- IDE & Ubuntu OS Artifacts ---
+.vscode/
+.idea/
+*~
+.DS_Store
+EOF
