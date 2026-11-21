@@ -20,7 +20,6 @@ for views :
 
 
 
+Search for (main-content) in every front page u visit
 =======================================================
 
-
-Search for (main-content) in every front page u visit

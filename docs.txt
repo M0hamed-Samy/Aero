@@ -1,0 +1,32 @@
+Routes / 
+
+facebook/mohamedsamy
+
+Services/
+
+1234 5431252 4124123 4123412 5432154123 43214 
+mq7 : 123  4412 4312
+Model : Dataset (fsbgfw412894u29358093865)
+Fucntions Auth
+
+
+
+app.py/
+Blueprint
+100
+10000
+backend -> front
+
+
+Browser -> Flutter -> Front X
+
+
+Flutter -> COR -> Front (request)
+Flutter <- COR <- Front (response)
+
+Access control allownse origin
+Cross origin resource sharing 
+
+COR
+
+database
